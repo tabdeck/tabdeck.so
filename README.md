@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/one-tab-group/onetab.group">
+  <a href="https://github.com/tabmirror/tabmirror.com">
     <img src="/public/logo.svg" width="152">
   </a>
   <h3 align="center">
-    <a href="https://github.com/one-tab-group/onetab.group">
-      onetab.group
+    <a href="https://github.com/tabmirror/tabmirror.com">
+      Tab Mirror
     </a>
   </h3>
   <br>
@@ -37,7 +37,7 @@
 - 🌍 i18n Support
 - ⌨️ Command `K` Interface - easily explore the opened tabs & tab groups
 - 🏷️ Visual Web Bookmark - Turn a link into a visual web bookmark with beautiful QRCode, you can share with others
-- 🔖 Support for migrate tabs data from `OneTab` to `onetab.group`
+- 🔖 Support for migrate tabs data from `OneTab` to `Tab Mirror`
 - 🔍 Search all tabs quickly using fuzzy search
 
 ## Chrome web extension
