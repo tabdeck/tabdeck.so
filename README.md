@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/tabmirror/tabmirror.com">
+  <a href="https://github.com/tabdeck/TabDeck">
     <img src="/public/logo.svg" width="152">
   </a>
   <h3 align="center">
-    <a href="https://github.com/tabmirror/tabmirror.com">
-      Tab Mirror
+    <a href="https://github.com/tabdeck/TabDeck">
+      Tab Deck
     </a>
   </h3>
   <br>
