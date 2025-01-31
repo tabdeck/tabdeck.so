@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://github.com/tabdeck/TabDeck">
+  <a href="https://github.com/tabdeck/tabdeck.so">
     <img src="/public/logo.svg" width="152">
   </a>
   <h3 align="center">
-    <a href="https://github.com/tabdeck/TabDeck">
+    <a href="[https://github.com/tabdeck/TabDeck](https://github.com/tabdeck/tabdeck.so)">
       Tab Deck
     </a>
   </h3>
   <br>
   <p align="center">
-    <a href="https://chrome.google.com/webstore/detail/one-tab-group/lajbajamkpmkmldodfbljkjihppdclbm"><img src="https://img.shields.io/chrome-web-store/v/lajbajamkpmkmldodfbljkjihppdclbm?color=%234285F4&logo=googlechrome&logoColor=%234285F4&style=for-the-badge"></a>
-    <a href="https://chrome.google.com/webstore/detail/one-tab-group/lajbajamkpmkmldodfbljkjihppdclbm"><img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/users/lajbajamkpmkmldodfbljkjihppdclbm?color=%234298f4&style=for-the-badge"></a>
+    <a href="https://chromewebstore.google.com/detail/tab-deck-tabtab-group-man/lajbajamkpmkmldodfbljkjihppdclbm"><img src="https://img.shields.io/chrome-web-store/v/lajbajamkpmkmldodfbljkjihppdclbm?color=%234285F4&logo=googlechrome&logoColor=%234285F4&style=for-the-badge"></a>
+    <a href="https://chromewebstore.google.com/detail/tab-deck-tabtab-group-man/lajbajamkpmkmldodfbljkjihppdclbm"><img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/users/lajbajamkpmkmldodfbljkjihppdclbm?color=%234298f4&style=for-the-badge"></a>
   </p>
   <p align="center">
     A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
@@ -41,7 +41,7 @@
 
 ## Chrome web extension
 
-[Go to chrome web store](https://chrome.google.com/webstore/detail/one-tab-group/lajbajamkpmkmldodfbljkjihppdclbm)
+[Go to chrome web store](https://chromewebstore.google.com/detail/tab-deck-tabtab-group-man/lajbajamkpmkmldodfbljkjihppdclbm)
 
 ## Template
 
