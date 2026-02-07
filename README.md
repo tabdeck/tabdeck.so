@@ -3,7 +3,7 @@
     <img src="/public/logo.svg" width="152">
   </a>
   <h3 align="center">
-    <a href="[https://github.com/tabdeck/TabDeck](https://github.com/tabdeck/tabdeck.so)">
+    <a href="https://www.tabdeck.so">
       Tab Deck
     </a>
   </h3>
